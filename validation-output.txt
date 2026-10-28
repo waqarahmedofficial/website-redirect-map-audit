@@ -1,0 +1,14 @@
+Map rows loaded: 189
+In-scope inventory URLs: 189
+[PASS] Duplicate source rows: 0 old URLs appear more than once in the Map (189 rows, 189 unique sources)
+[PASS] Coverage 1:1 vs in-scope inventory: missing=0 extra=0
+[PASS] Blank destinations: 0 blank
+[PASS] Redirect chains: 0 chains - no destination is itself the source of another redirect
+[PASS] Redirect loops: 0 cycles - cycle detection over the redirect graph found none
+[PASS] Duplicate targets (unintended): 8 destinations are shared; all sources sharing them are documented (Merge Registry or Orphans sheet). Unintended: 0
+[PASS] Orphan consistency: 5 no-match rows, each present in the Orphans sheet with matching recommendation and a reason
+[PASS] Trailing-slash rule: 0 destinations without trailing slash
+[PASS] Summary counts reconcile: all 10 printed counts equal the recomputed counts (total 189 = exact 128 + intent 45 + merged 8 + alias 1 + unchanged 2 + no-match 5; 176 unique destinations)
+[PASS] Destination-status honesty disclosure: workbook states in writing that destination HTTP status was NOT CHECKED because the new structure is hypothetical, and names the staging crawl as the live-job equivalent
+
+VERDICT: ALL 10 CHECKS PASS

@@ -1,0 +1,198 @@
+url,path,status_code,page_title,depth,source,section,in_scope,alias_target,query_variants,notes
+https://htmx.org/,/,200,</> htmx - high power tools for html,0,sitemap+crawl,(root),Yes,,suw=true,"Also linked in non-canonical form(s): https://htmx.org, https://htmx.org?suw=true | Query variant(s) seen in crawl: ?suw=true (map governs the path; query handling per stated rule)"
+https://htmx.org/CVE-2026-3682-1/,/CVE-2026-3682-1/,200,</> htmx ~ CVE-2026-3682-1,,sitemap,CVE-2026-3682-1,Yes,https://htmx.org/cve-2026-3682-1/,,Already redirects today to https://htmx.org/cve-2026-3682-1/ (legacy alias - map follows its target page)
+https://htmx.org/api/,/api/,200,</> htmx ~ Javascript API,2,sitemap+crawl,api,Yes,,,
+https://htmx.org/attributes/,/attributes/,200,</> htmx - high power tools for html,,sitemap,attributes,Yes,,,
+https://htmx.org/attributes/hx-boost/,/attributes/hx-boost/,200,</> htmx ~ hx-boost Attribute,2,sitemap+crawl,attributes,Yes,,,Also linked in non-canonical form(s): https://htmx.org/attributes/hx-boost
+https://htmx.org/attributes/hx-confirm/,/attributes/hx-confirm/,200,</> htmx ~ hx-confirm Attribute,2,sitemap+crawl,attributes,Yes,,,
+https://htmx.org/attributes/hx-delete/,/attributes/hx-delete/,200,</> htmx ~ hx-delete Attribute,2,sitemap+crawl,attributes,Yes,,,
+https://htmx.org/attributes/hx-disable/,/attributes/hx-disable/,200,</> htmx ~ hx-disable Attribute,2,sitemap+crawl,attributes,Yes,,,Also linked in non-canonical form(s): https://htmx.org/attributes/hx-disable
+https://htmx.org/attributes/hx-disabled-elt/,/attributes/hx-disabled-elt/,200,</> htmx ~ hx-disabled-elt Attribute,2,sitemap+crawl,attributes,Yes,,,
+https://htmx.org/attributes/hx-disinherit/,/attributes/hx-disinherit/,200,</> htmx ~ hx-disinherit Attribute,2,sitemap+crawl,attributes,Yes,,,
+https://htmx.org/attributes/hx-encoding/,/attributes/hx-encoding/,200,</> htmx ~ hx-encoding Attribute,2,sitemap+crawl,attributes,Yes,,,
+https://htmx.org/attributes/hx-ext/,/attributes/hx-ext/,200,</> htmx ~ hx-ext Attribute,2,sitemap+crawl,attributes,Yes,,,
+https://htmx.org/attributes/hx-get/,/attributes/hx-get/,200,</> htmx ~ hx-get Attribute,2,sitemap+crawl,attributes,Yes,,,
+https://htmx.org/attributes/hx-headers/,/attributes/hx-headers/,200,</> htmx ~ hx-headers Attribute,2,sitemap+crawl,attributes,Yes,,,
+https://htmx.org/attributes/hx-history-elt/,/attributes/hx-history-elt/,200,</> htmx ~ hx-history-elt Attribute,2,sitemap+crawl,attributes,Yes,,,
+https://htmx.org/attributes/hx-history/,/attributes/hx-history/,200,</> htmx ~ hx-history Attribute,2,sitemap+crawl,attributes,Yes,,,Also linked in non-canonical form(s): https://htmx.org/attributes/hx-history
+https://htmx.org/attributes/hx-include/,/attributes/hx-include/,200,</> htmx ~ hx-include Attribute,2,sitemap+crawl,attributes,Yes,,,
+https://htmx.org/attributes/hx-indicator/,/attributes/hx-indicator/,200,</> htmx ~ hx-indicator Attribute,2,sitemap+crawl,attributes,Yes,,,
+https://htmx.org/attributes/hx-inherit/,/attributes/hx-inherit/,200,</> htmx ~ hx-inherit Attribute,2,sitemap+crawl,attributes,Yes,,,
+https://htmx.org/attributes/hx-on/,/attributes/hx-on/,200,</> htmx ~ hx-on Attribute,2,sitemap+crawl,attributes,Yes,,,Also linked in non-canonical form(s): https://htmx.org/attributes/hx-on
+https://htmx.org/attributes/hx-params/,/attributes/hx-params/,200,</> htmx ~ hx-params Attribute,2,sitemap+crawl,attributes,Yes,,,Also linked in non-canonical form(s): https://htmx.org/attributes/hx-params
+https://htmx.org/attributes/hx-partial/,/attributes/hx-partial/,200,</> htmx ~ hx-partial Attribute,2,sitemap+crawl,attributes,Yes,,,
+https://htmx.org/attributes/hx-patch/,/attributes/hx-patch/,200,</> htmx ~ hx-patch Attribute,2,sitemap+crawl,attributes,Yes,,,
+https://htmx.org/attributes/hx-post/,/attributes/hx-post/,200,</> htmx ~ hx-post Attribute,1,sitemap+crawl,attributes,Yes,,,
+https://htmx.org/attributes/hx-preserve/,/attributes/hx-preserve/,200,</> htmx ~ hx-preserve Attribute,2,sitemap+crawl,attributes,Yes,,,
+https://htmx.org/attributes/hx-prompt/,/attributes/hx-prompt/,200,</> htmx ~ hx-prompt Attribute,2,sitemap+crawl,attributes,Yes,,,
+https://htmx.org/attributes/hx-push-url/,/attributes/hx-push-url/,200,</> htmx ~ hx-push-url Attribute,2,sitemap+crawl,attributes,Yes,,,
+https://htmx.org/attributes/hx-put/,/attributes/hx-put/,200,</> htmx ~ hx-put Attribute,2,sitemap+crawl,attributes,Yes,,,
+https://htmx.org/attributes/hx-replace-url/,/attributes/hx-replace-url/,200,</> htmx ~ hx-replace-url Attribute,2,sitemap+crawl,attributes,Yes,,,
+https://htmx.org/attributes/hx-request/,/attributes/hx-request/,200,</> htmx ~ hx-request Attribute,2,sitemap+crawl,attributes,Yes,,,
+https://htmx.org/attributes/hx-select-oob/,/attributes/hx-select-oob/,200,</> htmx ~ hx-select-oob Attribute,2,sitemap+crawl,attributes,Yes,,,
+https://htmx.org/attributes/hx-select/,/attributes/hx-select/,200,</> htmx ~ hx-select Attribute,2,sitemap+crawl,attributes,Yes,,,
+https://htmx.org/attributes/hx-sse/,/attributes/hx-sse/,404,</> htmx ~ 404 Not found,3,crawl,attributes,No,,,"Returns HTTP 404 today - broken link target found by crawl; nothing live to preserve, fix the linking page instead"
+https://htmx.org/attributes/hx-swap-oob/,/attributes/hx-swap-oob/,200,</> htmx ~ hx-swap-oob Attribute,2,sitemap+crawl,attributes,Yes,,,
+https://htmx.org/attributes/hx-swap/,/attributes/hx-swap/,200,</> htmx ~ hx-swap Attribute,1,sitemap+crawl,attributes,Yes,,,Also linked in non-canonical form(s): https://htmx.org/attributes/hx-swap
+https://htmx.org/attributes/hx-sync/,/attributes/hx-sync/,200,</> htmx ~ hx-sync Attribute,2,sitemap+crawl,attributes,Yes,,,
+https://htmx.org/attributes/hx-target/,/attributes/hx-target/,200,</> htmx ~ hx-target Attribute,2,sitemap+crawl,attributes,Yes,,,Also linked in non-canonical form(s): https://htmx.org/attributes/hx-target
+https://htmx.org/attributes/hx-trigger/,/attributes/hx-trigger/,200,</> htmx ~ hx-trigger Attribute,2,sitemap+crawl,attributes,Yes,,,Also linked in non-canonical form(s): https://htmx.org/attributes/hx-trigger
+https://htmx.org/attributes/hx-validate/,/attributes/hx-validate/,200,</> htmx ~ hx-validate Attribute,2,sitemap+crawl,attributes,Yes,,,
+https://htmx.org/attributes/hx-vals/,/attributes/hx-vals/,200,</> htmx ~ hx-vals Attribute,2,sitemap+crawl,attributes,Yes,,,
+https://htmx.org/attributes/hx-vars/,/attributes/hx-vars/,200,</> htmx ~ hx-vars Attribute,2,sitemap+crawl,attributes,Yes,,,
+https://htmx.org/attributes/hx-ws/,/attributes/hx-ws/,404,</> htmx ~ 404 Not found,3,crawl,attributes,No,,,"Returns HTTP 404 today - broken link target found by crawl; nothing live to preserve, fix the linking page instead"
+https://htmx.org/attributes/kt-swap/,/attributes/kt-swap/,200,</> htmx ~ hx-swap Attribute,3,crawl,attributes,Yes,https://htmx.org/attributes/hx-swap/,,Also linked in non-canonical form(s): https://htmx.org/attributes/kt-swap | Already redirects today to https://htmx.org/attributes/hx-swap/ (legacy alias - map follows its target page)
+https://htmx.org/discord/,/discord/,ERR:ReadTimeout,,2,crawl,discord,No,,,"Also linked in non-canonical form(s): https://htmx.org/discord | Returns HTTP ERR:ReadTimeout today - broken link target found by crawl; nothing live to preserve, fix the linking page instead"
+https://htmx.org/docs/,/docs/,200,</> htmx ~ Documentation,1,sitemap+crawl,docs,Yes,,,Also linked in non-canonical form(s): https://htmx.org/docs
+https://htmx.org/essays/,/essays/,200,</> htmx ~ Essays,1,sitemap+crawl,essays,Yes,,,Also linked in non-canonical form(s): https://htmx.org/essays
+https://htmx.org/essays/10-tips-for-ssr-hda-apps/,/essays/10-tips-for-ssr-hda-apps/,200,</> htmx ~ 10 Tips For Building SSR/HDA applications,2,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/a-real-world-nextjs-to-htmx-port/,/essays/a-real-world-nextjs-to-htmx-port/,200,</> htmx ~ Next.js to htmx — A Real World Example,2,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/a-real-world-react-to-htmx-port/,/essays/a-real-world-react-to-htmx-port/,200,</> htmx ~ A Real World React -> htmx Port,1,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/a-real-world-wasm-to-htmx-port/,/essays/a-real-world-wasm-to-htmx-port/,200,</> htmx ~ A Real World wasm to htmx Port,2,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/a-response-to-rich-harris/,/essays/a-response-to-rich-harris/,200,"</> htmx ~ A Response To ""Have Single-Page Apps Ruined the Web?""",2,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/all/,/essays/all/,200,</> htmx ~ All Essays,2,sitemap+crawl,essays,Yes,,,Also linked in non-canonical form(s): https://htmx.org/essays/all
+https://htmx.org/essays/alternatives/,/essays/alternatives/,200,</> htmx ~ Alternatives to htmx,2,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/another-real-world-react-to-htmx-port/,/essays/another-real-world-react-to-htmx-port/,200,</> htmx ~ Another Real World React -> htmx Port,2,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/architectural-sympathy/,/essays/architectural-sympathy/,200,</> htmx ~ Architectural Sympathy,3,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/code-is-cheap/,/essays/code-is-cheap/,200,</> htmx ~ Code is Cheap(er),2,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/codin-dirty/,/essays/codin-dirty/,200,</> htmx ~ Codin' Dirty,2,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/complexity-budget/,/essays/complexity-budget/,200,</> htmx ~ Complexity Budget,2,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/does-hypermedia-scale/,/essays/does-hypermedia-scale/,200,</> htmx ~ Does Hypermedia Scale?,2,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/future/,/essays/future/,200,</> htmx ~ The future of htmx,3,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/hateoas/,/essays/hateoas/,200,</> htmx ~ HATEOAS,2,sitemap+crawl,essays,Yes,,,Also linked in non-canonical form(s): https://htmx.org/essays/hateoas
+https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/,/essays/how-did-rest-come-to-mean-the-opposite-of-rest/,200,</> htmx ~ How Did REST Come To Mean The Opposite of REST?,2,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/htmx-sucks/,/essays/htmx-sucks/,200,</> htmx ~ htmx sucks,2,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/hypermedia-apis-vs-data-apis/,/essays/hypermedia-apis-vs-data-apis/,200,</> htmx ~ Hypermedia APIs vs. Data APIs,3,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/hypermedia-clients/,/essays/hypermedia-clients/,200,</> htmx ~ Hypermedia Clients,2,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/hypermedia-driven-applications/,/essays/hypermedia-driven-applications/,200,</> htmx ~ Hypermedia-Driven Applications,1,sitemap+crawl,essays,Yes,,,Also linked in non-canonical form(s): https://htmx.org/essays/hypermedia-driven-applications
+https://htmx.org/essays/hypermedia-friendly-scripting/,/essays/hypermedia-friendly-scripting/,200,</> htmx ~ Hypermedia-Friendly Scripting,2,sitemap+crawl,essays,Yes,,,Also linked in non-canonical form(s): https://htmx.org/essays/hypermedia-friendly-scripting
+https://htmx.org/essays/hypermedia-on-whatever-youd-like/,/essays/hypermedia-on-whatever-youd-like/,200,</> htmx ~ Hypermedia On Whatever you'd Like,2,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/interviews/chris-wanstrath/,/essays/interviews/chris-wanstrath/,200,"</> htmx ~ An interview with Chris Wanstrath aka @defunkt, Creator of pjax",2,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/interviews/henning-koch/,/essays/interviews/henning-koch/,200,"</> htmx ~ An interview with Henning Koch, Creator of Unpoly",2,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/interviews/leonard-richardson/,/essays/interviews/leonard-richardson/,200,</> htmx ~ An interview with Leonard Richardson,2,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/interviews/makinde-adeagbo/,/essays/interviews/makinde-adeagbo/,200,"</> htmx ~ An interview with Makinde Adeagbo, Creator of Primer",2,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/interviews/mike-amundsen/,/essays/interviews/mike-amundsen/,200,"</> htmx ~ An interview with Mike Amundsen, Author of 'RESTful Web APIs'",2,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/is-htmx-another-javascript-framework/,/essays/is-htmx-another-javascript-framework/,200,</> htmx ~ Is htmx Just Another JavaScript Framework?,2,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/locality-of-behaviour/,/essays/locality-of-behaviour/,200,</> htmx ~ Locality of Behaviour (LoB),2,sitemap+crawl,essays,Yes,,,Also linked in non-canonical form(s): https://htmx.org/essays/locality-of-behaviour
+https://htmx.org/essays/lore/,/essays/lore/,200,</> htmx ~ htmx lore,3,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/markdown-in-src/,/essays/markdown-in-src/,200,</> htmx ~ Markdown in /src,2,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/mcp-apps-hypermedia/,/essays/mcp-apps-hypermedia/,200,</> htmx ~ Hypermedia Friendly Model Context Protocol App Architecture,2,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/mvc/,/essays/mvc/,200,</> htmx ~ Model/View/Controller (MVC),2,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/no-build-step/,/essays/no-build-step/,200,</> htmx ~ Why htmx Does Not Have a Build Step,2,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/paris-2024-olympics-htmx-network-automation/,/essays/paris-2024-olympics-htmx-network-automation/,200,</> htmx ~ Building Critical Infrastructure with htmx: Network Automation for the Paris 2024 Olympics,2,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/prefer-if-statements/,/essays/prefer-if-statements/,200,</> htmx ~ Prefer If Statements To Polymorphism...,3,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/rest-copypasta/,/essays/rest-copypasta/,200,</> htmx ~ REST Copypasta,3,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/rest-explained/,/essays/rest-explained/,200,</> htmx ~ REST - Explained For Beginners,3,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/right-click-view-source/,/essays/right-click-view-source/,200,</> htmx ~ The #ViewSource Affordance,2,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/spa-alternative/,/essays/spa-alternative/,200,</> htmx ~ SPA Alternative,3,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/splitting-your-apis/,/essays/splitting-your-apis/,200,</> htmx ~ Splitting Your Data & Application APIs: Going Further,3,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/template-fragments/,/essays/template-fragments/,200,</> htmx ~ Template Fragments,2,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/the-fetchening/,/essays/the-fetchening/,200,</> htmx ~ The fetch()ening,3,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/two-approaches-to-decoupling/,/essays/two-approaches-to-decoupling/,200,</> htmx ~ Two Approaches To Decoupling,2,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/universities-and-ai/,/essays/universities-and-ai/,200,</> htmx ~ The University In The AI Era,2,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/vendoring/,/essays/vendoring/,200,</> htmx ~ Vendoring,2,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/view-transitions/,/essays/view-transitions/,200,</> htmx ~ Examples ~ View Transitions,2,sitemap+crawl,essays,Yes,,,Also linked in non-canonical form(s): https://htmx.org/essays/view-transitions
+https://htmx.org/essays/web-security-basics-with-htmx/,/essays/web-security-basics-with-htmx/,200,</> htmx ~ Web Security Basics (with htmx),2,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/webcomponents-work-great/,/essays/webcomponents-work-great/,200,</> htmx ~ Web Components Work Great with htmx,2,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/when-to-use-hypermedia/,/essays/when-to-use-hypermedia/,200,</> htmx ~ When Should You Use Hypermedia?,2,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/why-gumroad-didnt-choose-htmx/,/essays/why-gumroad-didnt-choose-htmx/,200,</> htmx ~ Why Gumroad Didn't Choose htmx,2,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/why-tend-not-to-use-content-negotiation/,/essays/why-tend-not-to-use-content-negotiation/,200,</> htmx ~ Why I Tend Not To Use Content Negotiation,2,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/working-with-ai/,/essays/working-with-ai/,200,</> htmx ~ Working With AI: A Concrete Example,2,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/yes-and/,/essays/yes-and/,200,"</> htmx ~ Yes, and...",3,sitemap+crawl,essays,Yes,,,
+https://htmx.org/essays/you-cant/,/essays/you-cant/,200,</> htmx ~ You Can't Build Interactive Web Apps Except as Single Page Applications... And Other Myths,2,sitemap+crawl,essays,Yes,,,
+https://htmx.org/events/,/events/,200,</> htmx ~ Events,2,sitemap+crawl,events,Yes,,,Also linked in non-canonical form(s): https://htmx.org/events
+https://htmx.org/examples/,/examples/,200,</> htmx ~ Examples,1,sitemap+crawl,examples,Yes,,,Also linked in non-canonical form(s): https://htmx.org/examples
+https://htmx.org/examples/active-search/,/examples/active-search/,200,</> htmx ~ Examples ~ Active Search,2,sitemap+crawl,examples,Yes,,,
+https://htmx.org/examples/animations/,/examples/animations/,200,</> htmx ~ Examples ~ Animations,2,sitemap+crawl,examples,Yes,,,Also linked in non-canonical form(s): https://htmx.org/examples/animations
+https://htmx.org/examples/async-auth/,/examples/async-auth/,200,</> htmx ~ Examples ~ Async Authentication,2,sitemap+crawl,examples,Yes,,,
+https://htmx.org/examples/bulk-update/,/examples/bulk-update/,200,</> htmx ~ Examples ~ Bulk Update,2,sitemap+crawl,examples,Yes,,,
+https://htmx.org/examples/click-to-edit/,/examples/click-to-edit/,200,</> htmx ~ Examples ~ Click to Edit,2,sitemap+crawl,examples,Yes,,,
+https://htmx.org/examples/click-to-load/,/examples/click-to-load/,200,</> htmx ~ Examples ~ Click to Load,2,sitemap+crawl,examples,Yes,,,
+https://htmx.org/examples/confirm/,/examples/confirm/,200,</> htmx ~ Examples ~ A Customized Confirmation UI,2,sitemap+crawl,examples,Yes,,,
+https://htmx.org/examples/delete-row/,/examples/delete-row/,200,</> htmx ~ Examples ~ Delete Row,2,sitemap+crawl,examples,Yes,,,
+https://htmx.org/examples/dialogs/,/examples/dialogs/,200,</> htmx ~ Examples ~ Dialogs,2,sitemap+crawl,examples,Yes,,,
+https://htmx.org/examples/edit-row/,/examples/edit-row/,200,</> htmx ~ Examples ~ Edit Row,2,sitemap+crawl,examples,Yes,,,
+https://htmx.org/examples/file-upload-input/,/examples/file-upload-input/,200,</> htmx ~ Examples ~ Preserving File Inputs after Form Errors,2,sitemap+crawl,examples,Yes,,,
+https://htmx.org/examples/file-upload/,/examples/file-upload/,200,</> htmx ~ Examples ~ File Upload,2,sitemap+crawl,examples,Yes,,,
+https://htmx.org/examples/infinite-scroll/,/examples/infinite-scroll/,200,</> htmx ~ Examples ~ Infinite Scroll,2,sitemap+crawl,examples,Yes,,,
+https://htmx.org/examples/inline-validation/,/examples/inline-validation/,200,</> htmx ~ Examples ~ Inline Validation,2,sitemap+crawl,examples,Yes,,,
+https://htmx.org/examples/keyboard-shortcuts/,/examples/keyboard-shortcuts/,200,</> htmx ~ Examples ~ Keyboard Shortcuts,2,sitemap+crawl,examples,Yes,,,
+https://htmx.org/examples/lazy-load/,/examples/lazy-load/,200,</> htmx ~ Examples ~ Lazy Loading,2,sitemap+crawl,examples,Yes,,,
+https://htmx.org/examples/modal-bootstrap/,/examples/modal-bootstrap/,200,</> htmx ~ Examples ~ Modal Dialogs in Bootstrap,2,sitemap+crawl,examples,Yes,,,
+https://htmx.org/examples/modal-custom/,/examples/modal-custom/,200,</> htmx ~ Examples ~ Custom Modal Dialogs,2,sitemap+crawl,examples,Yes,,,
+https://htmx.org/examples/modal-uikit/,/examples/modal-uikit/,200,</> htmx ~ Examples ~ Modal Dialogs with UIKit,2,sitemap+crawl,examples,Yes,,,
+https://htmx.org/examples/move-before/,/examples/move-before/,200,</> htmx ~ Experimental moveBefore() Support,2,sitemap+crawl,examples,Yes,,,Also linked in non-canonical form(s): https://htmx.org/examples/move-before
+https://htmx.org/examples/move-before/details/,/examples/move-before/details/,200,</> htmx ~ Experimental moveBefore() Support,3,sitemap+crawl,examples,Yes,,,Also linked in non-canonical form(s): https://htmx.org/examples/move-before/details
+https://htmx.org/examples/progress-bar/,/examples/progress-bar/,200,</> htmx ~ Examples ~ Progress Bar,2,sitemap+crawl,examples,Yes,,,
+https://htmx.org/examples/reset-user-input/,/examples/reset-user-input/,200,</> htmx ~ Examples ~ Reset user input,2,sitemap+crawl,examples,Yes,,,
+https://htmx.org/examples/sortable/,/examples/sortable/,200,</> htmx ~ Examples ~ Sortable,2,sitemap+crawl,examples,Yes,,,
+https://htmx.org/examples/tabs-hateoas/,/examples/tabs-hateoas/,200,</> htmx ~ Examples ~ Tabs (Using HATEOAS),2,sitemap+crawl,examples,Yes,,,
+https://htmx.org/examples/tabs-javascript/,/examples/tabs-javascript/,200,</> htmx ~ Examples ~ Tabs (Using JavaScript),2,sitemap+crawl,examples,Yes,,,
+https://htmx.org/examples/update-other-content/,/examples/update-other-content/,200,</> htmx ~ Examples ~ Updating Other Content,2,sitemap+crawl,examples,Yes,,,
+https://htmx.org/examples/value-select/,/examples/value-select/,200,</> htmx ~ Examples ~ Cascading Selects,2,sitemap+crawl,examples,Yes,,,
+https://htmx.org/examples/web-components/,/examples/web-components/,200,</> htmx ~ Examples ~ Web Components,2,sitemap+crawl,examples,Yes,,,
+https://htmx.org/extensions/,/extensions/,200,</> htmx ~ Extensions,1,sitemap+crawl,extensions,Yes,,,Also linked in non-canonical form(s): https://htmx.org/extensions
+https://htmx.org/extensions/building/,/extensions/building/,200,</> htmx ~ The Building htmx Extensions Extension,2,sitemap+crawl,extensions,Yes,,,Also linked in non-canonical form(s): https://htmx.org/extensions/building
+https://htmx.org/extensions/head-support/,/extensions/head-support/,200,</> htmx ~ The htmx Head Tag Support Extension Extension,2,sitemap+crawl,extensions,Yes,,,Also linked in non-canonical form(s): https://htmx.org/extensions/head-support
+https://htmx.org/extensions/htmx-1-compat/,/extensions/htmx-1-compat/,200,</> htmx ~ The htmx 1.x Compatibility Extension Extension,2,sitemap+crawl,extensions,Yes,,,Also linked in non-canonical form(s): https://htmx.org/extensions/htmx-1-compat
+https://htmx.org/extensions/idiomorph/,/extensions/idiomorph/,200,</> htmx ~ The htmx Idiomorph Extension Extension,2,sitemap+crawl,extensions,Yes,,,Also linked in non-canonical form(s): https://htmx.org/extensions/idiomorph
+https://htmx.org/extensions/idiomorph/@attributes/hx-swap/,/extensions/idiomorph/@attributes/hx-swap/,404,</> htmx ~ 404 Not found,3,crawl,extensions,No,,,"Also linked in non-canonical form(s): https://htmx.org/extensions/idiomorph/@attributes/hx-swap | Returns HTTP 404 today - broken link target found by crawl; nothing live to preserve, fix the linking page instead"
+https://htmx.org/extensions/preload/,/extensions/preload/,200,</> htmx ~ The htmx Preload Extension Extension,2,sitemap+crawl,extensions,Yes,,,Also linked in non-canonical form(s): https://htmx.org/extensions/preload
+https://htmx.org/extensions/response-targets/,/extensions/response-targets/,200,</> htmx ~ The htmx Response Targets Extension Extension,2,sitemap+crawl,extensions,Yes,,,Also linked in non-canonical form(s): https://htmx.org/extensions/response-targets
+https://htmx.org/extensions/sse/,/extensions/sse/,200,</> htmx ~ The htmx Server Sent Event (SSE) Extension Extension,2,sitemap+crawl,extensions,Yes,,,Also linked in non-canonical form(s): https://htmx.org/extensions/sse
+https://htmx.org/extensions/ws/,/extensions/ws/,200,</> htmx ~ The htmx Web Socket extension Extension,2,sitemap+crawl,extensions,Yes,,,Also linked in non-canonical form(s): https://htmx.org/extensions/ws
+https://htmx.org/headers/,/headers/,200,</> htmx - high power tools for html,,sitemap,headers,Yes,,,
+https://htmx.org/headers/hx-location/,/headers/hx-location/,200,</> htmx ~ HX-Location Response Header,2,sitemap+crawl,headers,Yes,,,
+https://htmx.org/headers/hx-push-url/,/headers/hx-push-url/,200,</> htmx ~ HX-Push-Url Response Header,2,sitemap+crawl,headers,Yes,,,
+https://htmx.org/headers/hx-push/,/headers/hx-push/,200,</> htmx ~ HX-Push Response Header (Deprecated),,sitemap,headers,Yes,,,
+https://htmx.org/headers/hx-redirect/,/headers/hx-redirect/,200,</> htmx ~ HX-Redirect Response Header,2,sitemap+crawl,headers,Yes,,,
+https://htmx.org/headers/hx-replace-url/,/headers/hx-replace-url/,200,</> htmx ~ HX-Replace-Url Response Header,2,sitemap+crawl,headers,Yes,,,
+https://htmx.org/headers/hx-trigger/,/headers/hx-trigger/,200,</> htmx ~ HX-Trigger Response Headers,2,sitemap+crawl,headers,Yes,,,
+https://htmx.org/manual/,/manual/,404,</> htmx ~ 404 Not found,4,crawl,manual,No,,,"Returns HTTP 404 today - broken link target found by crawl; nothing live to preserve, fix the linking page instead"
+https://htmx.org/migration-guide-hotwire-turbo/,/migration-guide-hotwire-turbo/,200,</> htmx ~ Hotwire / Turbo ➡️ htmx Migration Guide,2,sitemap+crawl,migration-guide-hotwire-turbo,Yes,,,
+https://htmx.org/migration-guide-htmx-1/,/migration-guide-htmx-1/,200,</> htmx ~ htmx 1.x → htmx 2.x Migration Guide,2,sitemap+crawl,migration-guide-htmx-1,Yes,,,
+https://htmx.org/migration-guide-intercooler/,/migration-guide-intercooler/,200,</> htmx ~ intercooler.js → htmx Migration Guide,2,sitemap+crawl,migration-guide-intercooler,Yes,,,
+https://htmx.org/posts/,/posts/,200,</> htmx ~ Posts,,sitemap,posts,Yes,,,
+https://htmx.org/posts/2020-10-27-htmx-0-3-0-is-released/,/posts/2020-10-27-htmx-0-3-0-is-released/,200,</> htmx ~ htmx 0.3.0 has been released!,2,sitemap+crawl,posts,Yes,,,
+https://htmx.org/posts/2020-11-16-htmx-0-4-0-is-released/,/posts/2020-11-16-htmx-0-4-0-is-released/,200,</> htmx ~ htmx 0.4.0 has been released!,2,sitemap+crawl,posts,Yes,,,
+https://htmx.org/posts/2020-11-24-htmx-1-0-0-is-released/,/posts/2020-11-24-htmx-1-0-0-is-released/,200,</> htmx ~ htmx 1.0.0 has been released!,2,sitemap+crawl,posts,Yes,,,
+https://htmx.org/posts/2020-5-15-kutty-0-0-1-is-released/,/posts/2020-5-15-kutty-0-0-1-is-released/,200,</> htmx ~ kutty 0.0.1 has been released!,2,sitemap+crawl,posts,Yes,,,
+https://htmx.org/posts/2020-5-17-kutty-er-htmx-0-0-3-is-released/,/posts/2020-5-17-kutty-er-htmx-0-0-3-is-released/,200,"</> htmx ~ kutty, er, htmx 0.0.3 has been released!",2,sitemap+crawl,posts,Yes,,,
+https://htmx.org/posts/2020-5-24-htmx-0-0-4-is-released/,/posts/2020-5-24-htmx-0-0-4-is-released/,200,</> htmx ~ htmx 0.0.4 has been released!,2,sitemap+crawl,posts,Yes,,,
+https://htmx.org/posts/2020-6-20-htmx-0-0-6-is-released/,/posts/2020-6-20-htmx-0-0-6-is-released/,200,</> htmx ~ htmx 0.0.6 has been released!,2,sitemap+crawl,posts,Yes,,,
+https://htmx.org/posts/2020-6-30-htmx-0-0-7-is-released/,/posts/2020-6-30-htmx-0-0-7-is-released/,200,</> htmx ~ htmx 0.0.7 has been released!,2,sitemap+crawl,posts,Yes,,,
+https://htmx.org/posts/2020-7-8-htmx-0-0-8-is-released/,/posts/2020-7-8-htmx-0-0-8-is-released/,200,</> htmx ~ htmx 0.0.8 has been released!,2,sitemap+crawl,posts,Yes,,,
+https://htmx.org/posts/2020-9-18-htmx-0-1-0-is-released/,/posts/2020-9-18-htmx-0-1-0-is-released/,200,</> htmx ~ htmx 0.1.2 has been released!,2,sitemap+crawl,posts,Yes,,,
+https://htmx.org/posts/2020-9-30-htmx-0-2-0-is-released/,/posts/2020-9-30-htmx-0-2-0-is-released/,200,</> htmx ~ htmx 0.2.0 has been released!,2,sitemap+crawl,posts,Yes,,,
+https://htmx.org/posts/2021-1-6-htmx-1-1-0-is-released/,/posts/2021-1-6-htmx-1-1-0-is-released/,200,</> htmx ~ htmx 1.1.0 has been released!,2,sitemap+crawl,posts,Yes,,,
+https://htmx.org/posts/2021-10-02-htmx-1-6-0-is-released/,/posts/2021-10-02-htmx-1-6-0-is-released/,200,</> htmx ~ htmx 1.6.0 has been released!,2,sitemap+crawl,posts,Yes,,,
+https://htmx.org/posts/2021-11-22-htmx-1-6-1-is-released/,/posts/2021-11-22-htmx-1-6-1-is-released/,200,</> htmx ~ htmx 1.6.1 has been released!,2,sitemap+crawl,posts,Yes,,,
+https://htmx.org/posts/2021-2-13-htmx-1-2-0-is-released/,/posts/2021-2-13-htmx-1-2-0-is-released/,200,</> htmx ~ htmx 1.2.0 has been released!,2,sitemap+crawl,posts,Yes,,,
+https://htmx.org/posts/2021-3-6-htmx-1-3-0-is-released/,/posts/2021-3-6-htmx-1-3-0-is-released/,200,</> htmx ~ htmx 1.3.0 has been released!,2,sitemap+crawl,posts,Yes,,,
+https://htmx.org/posts/2021-5-25-htmx-1-4-0-is-released/,/posts/2021-5-25-htmx-1-4-0-is-released/,200,</> htmx ~ htmx 1.4.0 has been released!,2,sitemap+crawl,posts,Yes,,,
+https://htmx.org/posts/2021-7-12-htmx-1-5-0-is-released/,/posts/2021-7-12-htmx-1-5-0-is-released/,200,</> htmx ~ htmx 1.5.0 has been released!,2,sitemap+crawl,posts,Yes,,,
+https://htmx.org/posts/2022-02-22-htmx-1-7-0-is-released/,/posts/2022-02-22-htmx-1-7-0-is-released/,200,</> htmx ~ htmx 1.7.0 has been released!,2,sitemap+crawl,posts,Yes,,,
+https://htmx.org/posts/2022-07-12-htmx-1-8-0-is-released/,/posts/2022-07-12-htmx-1-8-0-is-released/,200,</> htmx ~ htmx 1.8.0 has been released!,2,sitemap+crawl,posts,Yes,,,
+https://htmx.org/posts/2022-10-11-htmx-1-8-1-is-released/,/posts/2022-10-11-htmx-1-8-1-is-released/,200,</> htmx ~ htmx 1.8.1 has been released!,2,sitemap+crawl,posts,Yes,,,
+https://htmx.org/posts/2022-11-04-htmx-1-8-3-is-released/,/posts/2022-11-04-htmx-1-8-3-is-released/,200,</> htmx ~ htmx 1.8.3 has been released!,2,sitemap+crawl,posts,Yes,,,
+https://htmx.org/posts/2023-01-17-htmx-1-8-5-is-released/,/posts/2023-01-17-htmx-1-8-5-is-released/,200,</> htmx ~ htmx 1.8.5 has been released!,2,sitemap+crawl,posts,Yes,,,
+https://htmx.org/posts/2023-03-02-htmx-1-8-6-is-released/,/posts/2023-03-02-htmx-1-8-6-is-released/,200,</> htmx ~ htmx 1.8.6 has been released!,2,sitemap+crawl,posts,Yes,,,
+https://htmx.org/posts/2023-04-11-htmx-1-9-0-is-released/,/posts/2023-04-11-htmx-1-9-0-is-released/,200,</> htmx ~ htmx 1.9.0 has been released!,2,sitemap+crawl,posts,Yes,,,
+https://htmx.org/posts/2023-06-06-htmx-github-accelerator/,/posts/2023-06-06-htmx-github-accelerator/,200,</> htmx ~ htmx is part of the GitHub Accelerator!,2,sitemap+crawl,posts,Yes,,,
+https://htmx.org/posts/2023-07-14-htmx-1-9-3-is-released/,/posts/2023-07-14-htmx-1-9-3-is-released/,200,</> htmx ~ htmx 1.9.3 has been released!,2,sitemap+crawl,posts,Yes,,,
+https://htmx.org/posts/2023-08-25-htmx-1-9-5-is-released/,/posts/2023-08-25-htmx-1-9-5-is-released/,200,</> htmx ~ htmx 1.9.5 has been released!,2,sitemap+crawl,posts,Yes,,,
+https://htmx.org/posts/2023-09-22-htmx-1-9-6-is-released/,/posts/2023-09-22-htmx-1-9-6-is-released/,200,</> htmx ~ htmx 1.9.6 has been released!,2,sitemap+crawl,posts,Yes,,,
+https://htmx.org/posts/2023-11-03-htmx-1-9-7-is-released/,/posts/2023-11-03-htmx-1-9-7-is-released/,200,</> htmx ~ htmx 1.9.7 has been released!,2,sitemap+crawl,posts,Yes,,,
+https://htmx.org/posts/2024-01-26-htmx-2-0-0-alpha1-is-released/,/posts/2024-01-26-htmx-2-0-0-alpha1-is-released/,200,</> htmx ~ htmx 2.0.0-alpha1 has been released!,2,sitemap+crawl,posts,Yes,,,
+https://htmx.org/posts/2024-02-09-htmx-2-0-0-alpha2-is-released/,/posts/2024-02-09-htmx-2-0-0-alpha2-is-released/,200,</> htmx ~ htmx 2.0.0-alpha2 has been released!,2,sitemap+crawl,posts,Yes,,,
+https://htmx.org/posts/2024-03-15-htmx-2-0-0-beta1-is-released/,/posts/2024-03-15-htmx-2-0-0-beta1-is-released/,200,</> htmx ~ htmx 2.0.0-beta1 has been released!,2,sitemap+crawl,posts,Yes,,,
+https://htmx.org/posts/2024-04-22-htmx-2-0-0-beta4-is-released/,/posts/2024-04-22-htmx-2-0-0-beta4-is-released/,200,</> htmx ~ htmx 2.0.0-beta4 has been released!,2,sitemap+crawl,posts,Yes,,,
+https://htmx.org/posts/2024-06-17-htmx-2-0-0-is-released/,/posts/2024-06-17-htmx-2-0-0-is-released/,200,</> htmx ~ htmx 2.0.0 has been released!,2,sitemap+crawl,posts,Yes,,,
+https://htmx.org/quirks/,/quirks/,200,</> htmx ~ htmx quirks,2,sitemap+crawl,quirks,Yes,,,
+https://htmx.org/reference/,/reference/,200,</> htmx ~ Reference,1,sitemap+crawl,reference,Yes,,,Also linked in non-canonical form(s): https://htmx.org/reference
+https://htmx.org/server-examples/,/server-examples/,200,</> htmx ~ Server-Side Examples,2,sitemap+crawl,server-examples,Yes,,,
+https://htmx.org/talk/,/talk/,200,</> htmx ~ htmx Talk,1,sitemap+crawl,talk,Yes,,,
+https://htmx.org/test/,/test/,200,Mocha Tests,3,crawl,test,No,,,"Also linked in non-canonical form(s): https://htmx.org/test | Test-harness area, not public content - excluded from redesign scope (recommend noindex/removal)"
+https://htmx.org/test/manual/,/test/manual/,200,Aborting Request Event Test,4,crawl,test,No,,,"Test-harness area, not public content - excluded from redesign scope (recommend noindex/removal)"
+https://htmx.org/test/scratch/scratch/,/test/scratch/scratch/,200,,4,crawl,test,No,,,"Also linked in non-canonical form(s): https://htmx.org/test/scratch/scratch | Test-harness area, not public content - excluded from redesign scope (recommend noindex/removal)"
+https://htmx.org/webring/,/webring/,200,</> htmx ~ htmx webring,2,sitemap+crawl,webring,Yes,,,
